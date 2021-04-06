@@ -13,4 +13,6 @@ Step 1: Install Jiffy on your mobile device. Create projects that you would like
 to record the duration for. The script should handle any number of projects, 
 however the plots will have space for two, three, maybe even four projects.
 
+THIS IS WORK IN PROGRESS AND WILL BE AVAILABLE SOON
+
 
